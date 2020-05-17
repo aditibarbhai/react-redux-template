@@ -1,0 +1,11 @@
+# Webstorm
+.idea/*
+
+# Node Modules
+node_modules/*
+
+# Jest
+coverage/*
+
+# Webpack
+dist/*
