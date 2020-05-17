@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A bare bones react app template, from scratch",
   "author": "Aditi Barbhai",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
